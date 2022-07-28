@@ -8,9 +8,10 @@ using System;
 namespace Switch_case
 {
     class Program
-    '''{
+    {
         static void Main(string[] args)
-        '''{
+        
+        {
             int month = DateTime.Now.Month;
             Console.WriteLine(month);
 
